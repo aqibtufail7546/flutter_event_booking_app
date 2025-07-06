@@ -9,7 +9,7 @@ A beautiful, modern, and responsive **Flutter** application for booking event ti
 - 🔍 Browse upcoming events by category or location  
 - 📅 View event details (date, time, venue, description, image)  
 - 🎫 Book tickets and view booking summary  
-- 💳 Integrated payment UI (dummy for demo)   
+- 💳 Integrated payment UI (dummy for demo comming soon)   
 - 🧾 View past and upcoming bookings  
 - 🌐 Supports both Android and iOS  
 - 🔔 Push notifications (coming soon)  
