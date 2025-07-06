@@ -1,16 +1,41 @@
-# flutter_music_animation_effect
+# 🎟️ Event Ticket Booking App
 
-A new Flutter project.
+A beautiful, modern, and responsive **Flutter** application for booking event tickets with ease. This app allows users to browse events, view event details, and book tickets with a seamless and intuitive user experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Browse upcoming events by category or location  
+- 📅 View event details (date, time, venue, description, image)  
+- 🎫 Book tickets and view booking summary  
+- 💳 Integrated payment UI (dummy for demo)   
+- 🧾 View past and upcoming bookings  
+- 🌐 Supports both Android and iOS  
+- 🔔 Push notifications (coming soon)  
+- 🌙 Light/Dark theme support
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+> *(Add your screenshots here using Markdown or image links)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** (UI)
+- **Dart** (Programming Language)
+- **Firebase** *(Optional for backend: Auth, Firestore, etc.)*
+- **Riverpod** for state management (mention what you're using)
+- **Google Fonts**, **Lottie**, **CachedNetworkImage**, and more.
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/flutter-ticket-booking-app.git
+   cd flutter-ticket-booking-app
