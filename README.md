@@ -31,11 +31,4 @@ A beautiful, modern, and responsive **Flutter** application for booking event ti
 - **Riverpod** for state management (mention what you're using)
 - **Google Fonts**, **Lottie**, **CachedNetworkImage**, and more.
 
----
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/flutter-ticket-booking-app.git
-   cd flutter-ticket-booking-app
